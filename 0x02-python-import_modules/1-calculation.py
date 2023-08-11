@@ -6,12 +6,12 @@ if __name__ == "__main__":
 
     b = 5
 
-    import calculator_1 as cal
+    from calculator_1 import add, sub, mul, div
 
-    result_add = cal.add(a, b)
-    result_sub = cal.sub(a, b)
-    result_mul = cal.mul(a, b)
-    result_div = cal.div(a, b)
+    result_add = add(a, b)
+    result_sub = sub(a, b)
+    result_mul = mul(a, b)
+    result_div = div(a, b)
 
     print("{} + {} = {}".format(a, b, result_add))
     print("{} - {} = {}".format(a, b, result_sub))
