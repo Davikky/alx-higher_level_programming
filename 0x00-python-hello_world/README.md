@@ -1,5 +1,5 @@
 # Learning with ALX on High Level Programming Language
-## **Python Programming
+## Python Programming
 
 ### Concepts
 
