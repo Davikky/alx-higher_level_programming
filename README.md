@@ -1,5 +1,5 @@
 # Learning with ALX on High Level Programming Language
-## **Python Programming
+## Python Programming
 
 ### Author's disclaimer 
 
@@ -12,7 +12,7 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 
 Enjoy!
 
-- Guillaume
+	- Guillaume
 
 #### This project was carried out by Victor A. as part of the ALX learning curriculum on Software Engineering
 
